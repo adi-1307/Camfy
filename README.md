@@ -1,4 +1,4 @@
-# IIITL-Canteen-App
+# Camfy
 
 This project was made by contributons of Aditya kumar gupta and aman anchal.
 
